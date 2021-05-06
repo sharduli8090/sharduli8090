@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Let's connect !
+I am currently pursing B.Tech. I am still exploring things. 
+I would love to connect with you all .

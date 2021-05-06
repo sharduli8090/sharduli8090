@@ -1,11 +1,16 @@
 <h1 align="center">Hello people👋</h1>
 <br>
 
-
+<p align = "center">
+👀 Welcome to my profile! 
+</p>
+<p align = "center">
+🎓 I'm a Passionate Learner .
+</p>
 <p align = "center">
  🔭 I’m currently pursuing B.Tech. in Computer Science and Engineering .
 </p><p align = "center">
- 🌱 I’m exploring different aspects of web development .
+ 🌱 I’m exploring various aspects of Full Stack Development .
 </p>
 <br>
 <br>

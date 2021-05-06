@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently pursing B.Tech. I am still exploring things. 
+I am currently pursing B.Tech. in Computer Science and Engineering. I am still exploring things. 
 I would love to connect with you all .

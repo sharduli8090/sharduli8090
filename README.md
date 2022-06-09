@@ -10,7 +10,7 @@
 <p align = "center">
  🔭 Currently pursuing B.Tech. in Computer Science and Engineering with specialization in Full Stack Development .
 </p><p align = "center">
- 🌱 I’m exploring various aspects of Web Development and  DS Algo .
+ 🌱 I'm learning about Web Development and Data Structures and Algorithms. .
 </p>
 <br>
 <br>

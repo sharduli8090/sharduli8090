@@ -28,8 +28,23 @@
 <br>
 
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sharduli8090&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+<br>
+
+
 <p align = "center">
 <a href="https://www.linkedin.com/in/shardulipandey/" target="_blank" >
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </p>
+
+
+
+
+
+
+

@@ -14,7 +14,7 @@
 </p>
 <br>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharduli8090&label=Profile%20views&color=0e75b6&style=flat" alt="sharduli8090" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharduli8090&label=Profile%20Views&color=0e75b6&style=flat" alt="sharduli8090" /> </p>
 <br>
 <br>
 <p align = "center">

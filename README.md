@@ -28,9 +28,9 @@
 <br>
 <br>
  <p align="center"> 
-<img  align="center" src="https://skillicons.dev/icons?i=c,css,html,js,ts,react,java,nodejs,express,tailwind,firebase,discord,docker&figma=10&theme=dark" />
+<img  align="center" src="https://skillicons.dev/icons?i=c,css,html,js,ts,react,java,nodejs,express,tailwind,firebase,docker&figma=10&theme=dark" />
   </p> <p align="center"> 
-<img  align="center" src="https://skillicons.dev/icons?i=git,github,mongodb,netlify,postgres,postman,py,mysql,stackoverflow,twitter,instagram,linkedin,unity&vercel=10&theme=dark" />
+<img  align="center" src="https://skillicons.dev/icons?i=git,github,mongodb,netlify,postgres,postman,py,mysql,stackoverflow,discord,next,unity&vercel=10&theme=dark" />
   </p>
 <br>
 <br>

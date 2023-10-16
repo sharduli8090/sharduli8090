@@ -2,7 +2,7 @@
 <br>
 
 <p align = "center">
-👀 
+
 </p>
 <p align = "center">
 🎓 I'm a Passionate Learner.

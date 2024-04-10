@@ -30,7 +30,7 @@
  <p align="center"> 
 <img  align="center" src="https://skillicons.dev/icons?i=c,css,html,js,ts,react,java,nodejs,express,tailwind,angular,firebase,docker&figma=10&theme=dark" />
   </p> <p align="center"> 
-<img  align="center" src="https://skillicons.dev/icons?i=git,github,mongodb,netlify,postgres,postman,atlas,py,mysql,stackoverflow,discord,next,unity&vercel=10&theme=dark" />
+<img  align="center" src="https://skillicons.dev/icons?i=git,github,mongodb,netlify,postgres,postman,mongodb,py,mysql,stackoverflow,discord,next,unity&vercel=10&theme=dark" />
   </p>
 <br>
 <br>

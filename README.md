@@ -8,7 +8,7 @@
 🎓 I'm a Passionate Learner.
 </p>
 <p align = "center">
- 🔭 Currently pursuing B.Tech. in Computer Science and Engineering with specialization in Full Stack Development.
+ 🔭 B.Tech. in Computer Science and Engineering with specialization in Full Stack Development.
 </p><p align = "center">
  🌱 I'm diving into Full Stack Web Development and Data Structures and Algorithms.
 </p>

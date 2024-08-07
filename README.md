@@ -2,13 +2,13 @@
 <br>
 
 <p align = "center">
-👀
+ 👀 
 </p>
 <p align = "center">
 🎓 I'm a Passionate Learner.
 </p>
 <p align = "center">
- 🔭 Graduated with B.Tech. in Computer Science and Engineering.
+ 🔭 Graduated with a B.Tech. in Computer Science and Engineering.
 </p><p align = "center">
  🌱 I'm diving into Full Stack Web Development and Data Structures and Algorithms.
 </p>

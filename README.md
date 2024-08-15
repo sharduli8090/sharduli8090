@@ -1,9 +1,5 @@
 <h1 align="center">Greetings people👋</h1>
 <br>
-
-<p align = "center">
- 👀 
-</p>
 <p align = "center">
 🎓 I'm a Passionate Learner.
 </p>

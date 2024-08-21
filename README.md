@@ -1,7 +1,7 @@
 <h1 align="center">Greetings people👋</h1>
 <br>
 <p align = "center">
-🎓 I'm a Passionate Learner.
+🎓 I'm a Passionate Learner. 
 </p>
 <p align = "center">
  🔭 Graduated with a B.Tech. in Computer Science and Engineering.
